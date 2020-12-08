@@ -17,7 +17,7 @@ Lastly, I used the results from the portfolio analysis to create a custom stocks
 
 ### Preparing the Data
 
-First, read and cleaned several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. [Whale Analysis](Code/whale_analysis.ipynb)
+First, read and cleaned several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. [Whale Analysis](whale_analysis.ipynb)
 
 1. Imported each of the CSV files as a DataFrame.
 
