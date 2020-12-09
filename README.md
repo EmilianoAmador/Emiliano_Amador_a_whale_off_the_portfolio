@@ -75,31 +75,39 @@ Additional analysis of this section can be adding and subtracting stocks from ea
   
 ### Performance Analysis
 **Daily Returns**
+<br/>
   ![](Images/daily_returns.png)
 <br/>
 **Cumulative Returns**
+<br/>
   ![](Images/cumulative_returns.png)
 <br/>
-**Boxplots:**
+**Boxplots of Daily Returns**
+<br/>
   ![](Images/boxplot_returns.png)
 <br/>
 **Standard Deviation**
+<br/>
   ![](Images/standard_dev.png)
 <br/>
 **21-Day Rolling Standard Deviation**
+<br/>
   ![](Images/standard_deviation.png)
 <br/>
 **Rolling Beta of My Portfolio**
+<br/>
   ![](Images/myportfolio_beta.png)
 <br/>
 The beta value calculated for my portfolio denotes that the portfolio is less volatile than the market. If the market moves in either direction by 10%, my portfolio will also move in the same direction but by 3.6%. My portfolio is essentially more stable but tends to fluctuate less.
 <br/>
 **Sharpe Ratios**
+<br/>
   ![](Images/sharpe_ratios.png)
 <br/>
 My Portfolio has a better risk to return (Sharpe ratio) than Soros Fund, Paulson & Co, and Tiger Global, but not the rest. The risk-to-return is low compared to the S&P 500.
 <br/>
 **Correlation Matrix**
+<br/>
   ![](Images/correlation.png)
 <br/>
 My portfolio has a very low correlation with the S&P 500, according to the Pearson Correlation Chart. Adding more assets to my portfolio could potentially increase its performance.
