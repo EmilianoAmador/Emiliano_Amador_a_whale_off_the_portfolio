@@ -94,9 +94,11 @@ Additional analysis of this section can be adding and subtracting stocks from ea
   ![](Images/standard_dev.png)
 <br/>
 <br/>
+<br/>
 **21-Day Rolling Standard Deviation**
 <br/>
   ![](Images/standard_deviation.png)
+<br/>
 <br/>
 <br/>
 **Rolling Beta of My Portfolio**
