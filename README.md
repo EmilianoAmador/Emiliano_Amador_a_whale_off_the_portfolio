@@ -89,6 +89,8 @@ Additional analysis of this section can be adding and subtracting stocks from ea
   ![](Images/boxplot_returns.png)
 <br/>
 <br/>
+<br/>
+<br/>
 **Standard Deviation**
 <br/>
   ![](Images/standard_dev.png)
