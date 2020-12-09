@@ -36,7 +36,7 @@ Based on the figure below, Berkshire Hathaway Inc and Algo 1 out-performs the re
 ### Risk Analysis
 
 1. Tiger Global Management LLC has the widest daily return spread due to a few outliers, whereas Berkshire Hathaway has an overall denser daily return spread. It can be inferred that the Berkshire portfolio will yield a higher standard deviation if the outliers in Tiger Global get trimmed. Paulson & Co Inc has the smallest spread and the smaller Standard deviation. See below:
-<br/>
+
   ![](Images/cumulative_returns-wo.png)
   <br/>
 2. Berkshire Hathaway and Tiger Global Management LLC demonstrate riskier trends than the S&P 500 due to their standard deviations being higher than the rest. Below is an analysis of each portfolio's overall and annual standard deviations.
