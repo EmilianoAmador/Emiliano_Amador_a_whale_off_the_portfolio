@@ -46,7 +46,7 @@ Based on the figure below, Berkshire Hathaway Inc and Algo 1 out-performs the re
 ### Rolling Statistics
 
 1. Most of the portfolios follow a similar risk pattern as the S&P 500. Tiger Global in the other hand has a more unpredictable risk pattern than the S&P 500.
-<br/>
+
   ![](Images/standard_deviation-wo.png)
 <br/>
   ![](Images/exp_weighted_avg-wo.png)  
