@@ -105,7 +105,6 @@ Additional analysis of this section can be adding and subtracting stocks from ea
 <br/>
 The beta value calculated for my portfolio denotes that the portfolio is less volatile than the market. If the market moves in either direction by 10%, my portfolio will also move in the same direction but by 3.6%. My portfolio is essentially more stable but tends to fluctuate less.
 <br/>
-**Sharpe Ratios**
 <br/>
   ![](Images/sharpe_ratios.png)
 <br/>
