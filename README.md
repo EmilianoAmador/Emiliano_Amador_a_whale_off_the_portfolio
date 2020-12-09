@@ -1,4 +1,4 @@
-# Algorithmic Trading Strategies: Comparing Whale Portfolio's With Python and Pandas
+# Quantitative Analysis: Comparing Portfolio's With Python and Pandas
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
