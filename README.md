@@ -1,6 +1,6 @@
 # Quantitative Analysis: Comparing Portfolio's With Python and Pandas
 
-![Portfolio Analysis](Images/portfolio-analysis.png)
+![Portfolio Analysis](Images/Cover.jpg)
 
 ## Introduction
 
