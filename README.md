@@ -78,21 +78,26 @@ Additional analysis of this section can be adding and subtracting stocks from ea
 <br/>
   ![](Images/daily_returns.png)
 <br/>
+<br/>
 **Cumulative Returns**
 <br/>
   ![](Images/cumulative_returns.png)
+<br/>
 <br/>
 **Boxplots of Daily Returns**
 <br/>
   ![](Images/boxplot_returns.png)
 <br/>
+<br/>
 **Standard Deviation**
 <br/>
   ![](Images/standard_dev.png)
 <br/>
+<br/>
 **21-Day Rolling Standard Deviation**
 <br/>
   ![](Images/standard_deviation.png)
+<br/>
 <br/>
 **Rolling Beta of My Portfolio**
 <br/>
@@ -104,7 +109,10 @@ The beta value calculated for my portfolio denotes that the portfolio is less vo
 <br/>
   ![](Images/sharpe_ratios.png)
 <br/>
+<br/>
 My Portfolio has a better risk to return (Sharpe ratio) than Soros Fund, Paulson & Co, and Tiger Global, but not the rest. The risk-to-return is low compared to the S&P 500.
+<br/>
+<br/>
 <br/>
 **Correlation Matrix**
 <br/>
