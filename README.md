@@ -31,7 +31,7 @@ For each of the portfolios, I imported their CSV files containing their historic
 1. Cumulative returns
 Based on the figure below, Berkshire Hathaway Inc and Algo 1 out-performs the rest of the portfolios as well as the S&P 500. However, Algo 1's cumulative returns have a longer streak out-performing the rest.
 
-  ![](Images/cumulative_returns-wo.png)
+  ![](Images/daily_returns-wo.png)
 
 ### Risk Analysis
 
