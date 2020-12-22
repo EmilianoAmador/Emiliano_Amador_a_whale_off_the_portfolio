@@ -9,9 +9,9 @@ In this quantitative analysis project, I used Python and Pandas to evaluate six 
 Lastly, I used the results from the portfolio analysis to create a custom stocks portfolio and ran it against the other portfolios as well as the S&P 500. 
 
 **Process Outline:**
-1. [Read in and Wrangle Returns Data](## Preparing the Data)
-2. [Determined Success of Each Portfolio](## Quantitative Analysis)
-3. [Created and Evaluatde a Custom Portfolio](## Create-Custom-Portfolio)
+1. [Read in and Wrangle Returns Data](##Preparing the Data)
+2. [Determined Success of Each Portfolio](##Quantitative Analysis)
+3. [Created and Evaluatde a Custom Portfolio](##Create-Custom-Portfolio)
 
 ---
 
