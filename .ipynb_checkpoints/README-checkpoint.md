@@ -4,7 +4,9 @@
 
 ## Introduction
 
-This quantitative analysis has several components: performance, volatility, risk, risk-return profile, and portfolio diversification. I used Python and Pandas to evaluate six major investment portfolios across these various metrics to see which portfolio outperforms the broader stock market, represented as the S&P500. The portfolios evaluated include the distinguished Berkshire Hathaway portfolio, the Soros Fund Management, the Tiger Global Management, and two algorithmic portfolios from an undisclosed trading firm (Algo 1 and Algo 2). The historical data was provided by yahoo finance and placed into CSV files using excel. 
+In this quantitative analysis project, I used Python and Pandas to evaluate six major investment portfolios accross various metrics to see which portfolio outperforms the rest. To do this, I created a tool that analyzes and visually organizes each portfolio's volatility, risk, returns, and sharpe ratios from their historical daily returns. The portfolios evaluated include the distinguished Berkshire Hathaway portfolio, two algorithmic portfolios from an undisclosed trading firm (Algo 1 and Algo 2), and three portfolios from large hedge and mutual funds firms. The historical data was provided by yahoo finance and placed into csv files using excel.
+
+Lastly, I used the results from the portfolio analysis to create a custom stocks portfolio and ran it against the other portfolios as well as the S&P 500. 
 
 **Process Outline:**
 1. [Read in and Wrangle Returns Data](#Preparing-the-Data)
